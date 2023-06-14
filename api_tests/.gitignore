@@ -1,10 +1,4 @@
-api_client/
-!api_client/pom.xml
-!api_client/openapi.yml
 target/
-**/.allure
-**/swagger-coverage-output
-**/.idea
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
